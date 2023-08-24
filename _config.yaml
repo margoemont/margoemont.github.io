@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: margoemont
+title: Margo Emont
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Studying adipocyte and adipose tissue heterogeniety in humans and mice.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@margoemont.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: memont@bidmc.harvard.edu
+  orcid: 0000-0001-9873-2784
+  google-scholar: nAxf1AQAAAAJ
   github: margoemont
-  twitter: margoemont
-  youtube: margoemont
+  # twitter: margoemont
+  # youtube: margoemont
 
 ### jekyll settings
 
@@ -24,10 +24,10 @@ defaults:
     values:
       layout: default
   # markdown files in /_members
-  - scope:
-      type: "members"
-    values:
-      layout: member
+  # - scope:
+  #     type: "members"
+  #   values:
+  #     layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -36,8 +36,8 @@ defaults:
 
 collections:
   # generate page for each member
-  members:
-    output: true
+  # members:
+  #   output: true
   # generate page for each post
   posts:
     output: true
