@@ -74,7 +74,7 @@ See my CV.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/headshot.jpg"
   link="team"
   title="About me"
   text=text

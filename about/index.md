@@ -12,10 +12,11 @@ Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
 
 **Education:**
 
-| Month/Year(s) | Title | Discipline (Mentor)| Institution |
+| Month/Year(s) | Title | Discipline (Mentor) | Institution |
 | --- | --- | --- | --- |
 | 06/2011 | AB | Biology | University of Chicago |
 | 04/2018 | PhD | Molecular Physiology (PI: Wu) | University of Michigan |
+
 **Postdoctoral Training:**
 
 | Month/Year(s) | Title | Discipline (Mentor) | Institution |
@@ -28,7 +29,7 @@ Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
 | --- | --- | --- | --- |
 | 04/2022- present | Instructor | Medicine/Endocrinology | BIDMC/Harvard Medical School|
 
-#### _Grants and Fellowships_
+### _Grants and Fellowships_
 
 **Past**
 
@@ -43,9 +44,10 @@ Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
 | --- | --- | --- | --- | --- |
 | 2022- present | Investigating the Regulation of Distinct Human Adipocyte Subpopulations | NIH K01 DK134806| Role: PI | This project seeks to further interrogate distinct subtypes of white adipocytes, first identified in our lab, by discovering the stimuli that predispose one subpopulation over another and ultimately create _in vitro_ models of these subpopulations for further study.|
 
-#### _Presentations_
+### _Presentations_
 
 **Local Presentations:**
+
 |Year|Title|Meeting/Institution|Location|
 | --- | --- | --- | --- |
 | 2021 | A single cell atlas of human and mouse adipose tissue | Diabetes Research Group,  Broad Institute of MIT and Harvard |Boston, MA |
@@ -66,7 +68,8 @@ Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
 | 2021 | Adipose tissue sNuc-seq: challenges and opportunities | Human Cell Atlas, Biological Network Seminar |Virtual |
 | 2022 | A single cell atlas of human adipose tissue | Human Cell Atlas General Meeting |Vienna, Austria|
 
-#### _Mentorship_
+### _Mentorship_
+
 |Year|Name|Current Position|Mentoring career stage|Mentoring Role| Accomplishments|
 | --- | --- | --- | --- | --- | --- |
 | 2011-2013 | Mallory Morse, DDS, MD | Resident in Oral and Maxillofacial Surgery, Jacobi Medical Center/Mt Sinai Beth Israel | Undergraduate | Direct supervisor | contributed to project on the role of Laminin alpha 4 in adipocytes. |
@@ -74,13 +77,14 @@ Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
 | 2018-2020 | Gregory Westcott, MD | Instructor, BIDMC/Harvard Medical School |Research fellow |Direct supervisor|Published a co-first author paper, "Mesothelial cells are not a source of adipocytes in mice". |
 | 2022 | Johannes Weigel |Medical student, Julius-Maximilians Universitat Wurzburg|Medical student|Direct supervisor|Contributed to the development of an IRF4 cistrome in adipocytes and wrote a report on the subject. |
 
-#### _Teaching Experience_
+### _Teaching Experience_
+
 |Year(s)|Role|Class(es)|Department/Institution|Responsibilities|
 | --- | --- | --- | --- | --- |
 | 2010-2012 | Laboratory Teaching Assistant |Cell & Molecular Biology, Genetics, Developmental Biology, Biology for non-major premeds |Biological Sciences Collegiate Division, University of Chicago |Led weekly lab class, gave a short presentation on lab topics, assisted students in performing and interpreting experiments, graded lab reports, held office hours.
 | 2015 | Graduate Student Instructor|Physiology 201| Department of Molecular & Integrative Physiology, University of Michigan| Responsibilities: Led weekly discussion section in which weekly class topics were reviewed with students, prepared group exercises on those topics for discussion sections, graded coursework
 
-#### _Service_
+### _Service_
 
 - **Human Cell Atlas Adipose Network**
  Presented on behalf of the adipose network at international consortium meeting, deeply involved with adipose network coordination and integration efforts.
@@ -91,7 +95,7 @@ With mentor: _Nature_, _Cell_, _Nature Medicine_, _Cell Metabolism_, _Nature Met
 - **Poster Judge**
 Scientista symposium poster competition 2019, Broad Institute retreat poster competition 2022
 
-#### _Publications_
+### _Publications_
 
 ORCID ID: [https://orcid.org/0000-0001-9873-2784](https://orcid.org/0000-0001-9873-2784)
 
