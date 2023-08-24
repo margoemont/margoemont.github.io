@@ -1,9 +1,9 @@
 ---
 ---
 
-# margoemont's Website
+# Margo Emont
 
-An engaging 1-3 sentence description of your lab.
+Studying adipocyte and adipose tissue heterogeniety in humans and mice.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My research spans a number of topics reguarding adipose tissue and adipocyte development and function.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See my publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +26,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/atlas.jpg"
   link="research"
-  title="Our Research"
+  title="My Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore the human and mouse white adipose tissue atlases.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Explore the data"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/atlas.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See my CV.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="About me"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="About me"
   text=text
 %}
