@@ -95,7 +95,7 @@
   orcid: 0000-0001-9873-2784
   plugin: sources.py
   file: sources.yaml
-  image: margoemont.github.io/images/atlas.jpg
+  image: images/atlas.jpg
 - id: doi:10.1126/scitranslmed.abh3831
   title: "Hepatic IRF3 fuels dysglycemia in obesity through direct regulation of\n\
     \            <i>Ppp2r1b</i>"
