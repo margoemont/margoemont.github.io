@@ -1,133 +1,401 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41586-023-06445-2
+  title: 'Author Correction: A single-cell atlas of human and mouse white adipose
+    tissue'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Margo P. Emont
+  - Christopher Jacobs
+  - Adam L. Essene
+  - Deepti Pant
+  - Danielle Tenen
+  - Georgia Colleluori
+  - Angelica Di Vincenzo
+  - "Anja M. J\xF8rgensen"
+  - Hesam Dashti
+  - Adam Stefek
+  - Elizabeth McGonagle
+  - Sophie Strobel
+  - Samantha Laber
+  - Saaket Agrawal
+  - Gregory P. Westcott
+  - Amrita Kar
+  - Molly L. Veregge
+  - Anton Gulko
+  - Harini Srinivasan
+  - Zachary Kramer
+  - Eleanna De Filippis
+  - Erin Merkel
+  - Jennifer Ducie
+  - Christopher G. Boyd
+  - William Gourash
+  - Anita Courcoulas
+  - Samuel J. Lin
+  - Bernard T. Lee
+  - Donald Morris
+  - Adam Tobias
+  - Amit V. Khera
+  - Melina Claussnitzer
+  - Tune H. Pers
+  - Antonio Giordano
+  - Orr Ashenberg
+  - Aviv Regev
+  - Linus T. Tsai
+  - Evan D. Rosen
+  publisher: Nature
+  date: '2023-07-26'
+  link: https://doi.org/gsm384
+  orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41586-022-04518-2
+  title: A single-cell atlas of human and mouse white adipose tissue
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Margo P. Emont
+  - Christopher Jacobs
+  - Adam L. Essene
+  - Deepti Pant
+  - Danielle Tenen
+  - Georgia Colleluori
+  - Angelica Di Vincenzo
+  - "Anja M. J\xF8rgensen"
+  - Hesam Dashti
+  - Adam Stefek
+  - Elizabeth McGonagle
+  - Sophie Strobel
+  - Samantha Laber
+  - Saaket Agrawal
+  - Gregory P. Westcott
+  - Amrita Kar
+  - Molly L. Veregge
+  - Anton Gulko
+  - Harini Srinivasan
+  - Zachary Kramer
+  - Eleanna De Filippis
+  - Erin Merkel
+  - Jennifer Ducie
+  - Christopher G. Boyd
+  - William Gourash
+  - Anita Courcoulas
+  - Samuel J. Lin
+  - Bernard T. Lee
+  - Donald Morris
+  - Adam Tobias
+  - Amit V. Khera
+  - Melina Claussnitzer
+  - Tune H. Pers
+  - Antonio Giordano
+  - Orr Ashenberg
+  - Aviv Regev
+  - Linus T. Tsai
+  - Evan D. Rosen
+  publisher: Nature
+  date: '2022-03-16'
+  link: https://doi.org/gpthqx
+  orcid: 0000-0001-9873-2784
+  plugin: sources.py
+  file: sources.yaml
+  image: images/atlas.jpg
+- id: doi:10.1126/scitranslmed.abh3831
+  title: "Hepatic IRF3 fuels dysglycemia in obesity through direct regulation of\n\
+    \            <i>Ppp2r1b</i>"
+  authors:
+  - Suraj J. Patel
+  - Nan Liu
+  - Sam Piaker
+  - Anton Gulko
+  - Maynara L. Andrade
+  - Frankie D. Heyward
+  - Tyler Sermersheim
+  - Nufar Edinger
+  - Harini Srinivasan
+  - Margo P. Emont
+  - Gregory P. Westcott
+  - Jay Luther
+  - Raymond T. Chung
+  - Shuai Yan
+  - Manju Kumari
+  - Reeby Thomas
+  - Yann Deleye
+  - "Andr\xE9 Tchernof"
+  - Phillip J. White
+  - Guido A. Baselli
+  - Marica Meroni
+  - Dario F. De Jesus
+  - Rasheed Ahmad
+  - Rohit N. Kulkarni
+  - Luca Valenti
+  - Linus Tsai
+  - Evan D. Rosen
+  publisher: Science Translational Medicine
+  date: '2022-03-23'
+  link: https://doi.org/gsm385
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.11.09.466968
+  title: A single cell atlas of human and mouse white adipose tissue
+  authors:
+  - Margo P. Emont
+  - Christopher Jacobs
+  - Adam L. Essene
+  - Deepti Pant
+  - Danielle Tenen
+  - Georgia Colleluori
+  - Angelica Di Vincenzo
+  - "Anja M. J\xF8rgensen"
+  - Hesam Dashti
+  - Adam Stefek
+  - Elizabeth McGonagle
+  - Sophie Strobel
+  - Samantha Laber
+  - Saaket Agrawal
+  - Gregory P. Westcott
+  - Amrita Kar
+  - Molly L. Veregge
+  - Anton Gulko
+  - Harini Srinivasan
+  - Zachary Kramer
+  - Eleanna De Filippis
+  - Erin Merkel
+  - Jennifer Ducie
+  - Christopher G. Boyd
+  - William Gourash
+  - Anita Courcoulas
+  - Samuel J. Lin
+  - Bernard T. Lee
+  - Donald Morris
+  - Adam Tobias
+  - Amit V. Khera
+  - Melina Claussnitzer
+  - Tune H. Pers
+  - Antonio Giordano
+  - Orr Ashenberg
+  - Aviv Regev
+  - Linus T. Tsai
+  - Evan D. Rosen
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2021-11-11'
+  link: https://doi.org/gsm386
+  orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.celrep.2021.109388
+  title: Mesothelial cells are not a source of adipocytes in mice
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Gregory P. Westcott
+  - Margo P. Emont
+  - Jin Li
+  - Christopher Jacobs
+  - Linus Tsai
+  - Evan D. Rosen
+  publisher: Cell Reports
+  date: '2021-07-01'
+  link: https://doi.org/gsm387
+  orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.devcel.2020.05.017
+  title: Adrenergic-Independent Signaling via CHRNA2 Regulates Beige Fat Activation
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Heejin Jun
+  - Yingxu Ma
+  - Yong Chen
+  - Jianke Gong
+  - Shanshan Liu
+  - Jine Wang
+  - Alexander J. Knights
+  - Xiaona Qiao
+  - Margo P. Emont
+  - X.Z. Shawn Xu
+  - Shingo Kajimura
+  - Jun Wu
+  publisher: Developmental Cell
+  date: '2020-07-01'
+  link: https://doi.org/gsm388
+  orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1210/en.2018-00257
+  title: HDAC3-Selective Inhibition Activates Brown and Beige Fat Through PRDM16
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Jiling Liao
+  - Juan Jiang
+  - Heejin Jun
+  - Xiaona Qiao
+  - Margo P Emont
+  - Dong-il Kim
+  - Jun Wu
+  publisher: Endocrinology
+  date: '2018-05-10'
+  link: https://doi.org/gdjmz5
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41591-018-0032-8
+  title: An immune-beige adipocyte communication via nicotinic acetylcholine receptor
+    signaling
+  authors:
+  - Heejin Jun
+  - Hui Yu
+  - Jianke Gong
+  - Juan Jiang
+  - Xiaona Qiao
+  - Eric Perkey
+  - Dong-il Kim
+  - Margo P. Emont
+  - Alexander G. Zestos
+  - Jung-Sun Cho
+  - Jianfeng Liu
+  - Robert T. Kennedy
+  - Ivan Maillard
+  - X. Z. Shawn Xu
+  - Jun Wu
+  publisher: Nature Medicine
+  date: '2018-05-21'
+  link: https://doi.org/gdqjjq
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbalip.2018.05.004
+  title: Development, activation, and therapeutic potential of thermogenic adipocytes
+  authors:
+  - Margo P. Emont
+  - Dong-il Kim
+  - Jun Wu
+  publisher: Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids
+  date: '2019-01-01'
+  link: https://doi.org/gsm389
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-7799-4_21
+  title: Isolation and Differentiation of Murine Primary Brown/Beige Preadipocytes
+  authors:
+  - Hui Yu
+  - Margo Emont
+  - Heejin Jun
+  - Jun Wu
+  publisher: Adipose-Derived Stem Cells
+  date: '2018-01-01'
+  link: https://doi.org/gsm39b
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.metabol.2017.08.006
+  title: Cinnamaldehyde induces fat cell-autonomous thermogenesis and metabolic reprogramming
+  authors:
+  - Juan Jiang
+  - Margo P. Emont
+  - Heejin Jun
+  - Xiaona Qiao
+  - Jiling Liao
+  - Dong-il Kim
+  - Jun Wu
+  publisher: Metabolism
+  date: '2017-12-01'
+  link: https://doi.org/gcm7k5
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.m116.771428
+  title: The kielin/chordin-like protein (KCP) attenuates high-fat diet-induced obesity
+    and metabolic syndrome in mice
+  authors:
+  - Abdul Soofi
+  - Katherine I. Wolf
+  - Margo P. Emont
+  - Nathan Qi
+  - Gabriel Martinez-Santibanez
+  - Edward Grimley
+  - Wesam Ostwani
+  - Gregory R. Dressler
+  publisher: Journal of Biological Chemistry
+  date: '2017-06-01'
+  link: https://doi.org/gbhn9b
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-6820-6_2
+  title: Isolation of Mouse Stromal Vascular Cells for Monolayer Culture
+  authors:
+  - Longhua Liu
+  - Louise D. Zheng
+  - Sarah R. Donnelly
+  - Margo P. Emont
+  - Jun Wu
+  - Zhiyong Cheng
+  publisher: Thermogenic Fat
+  date: '2017-01-01'
+  link: https://doi.org/gsm39c
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26425808
+  title: Using a 3D Culture System to Differentiate Visceral Adipocytes In Vitro.
+  authors:
+  - Margo P Emont
+  - Hui Yu
+  - Heejin Jun
+  - Xiaowei Hong
+  - Nenita Maganti
+  - Jan P Stegemann
+  - Jun Wu
+  publisher: Endocrinology
+  date: '2015-12-01'
+  link: http://europepmc.org/abstract/med/26425808
+  orcid: 0000-0001-9873-2784
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1016/j.mce.2015.03.002
+  title: Silencing Mediator of Retinoid and Thyroid Hormone Receptors (SMRT) regulates
+    glucocorticoid action in adipocytes
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Margo P. Emont
+  - Stelios Mantis
+  - Jonathan H. Kahn
+  - Michael Landeche
+  - Xuan Han
+  - Robert M. Sargis
+  - Ronald N. Cohen
+  publisher: Molecular and Cellular Endocrinology
+  date: '2015-05-01'
+  link: https://doi.org/f69w3q
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1530/JOE-15-0026
+  title: Transcriptional control and hormonal response of thermogenic fat
+  authors:
+  - Margo P Emont
+  - Hui Yu
+  - Jun Wu
+  publisher: Journal of Endocrinology
+  date: '2015-03-24'
+  link: https://doi.org/f7cvf6
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0109854
+  title: "Laminin \u03B14 Deficient Mice Exhibit Decreased Capacity for Adipose Tissue\
+    \ Expansion and Weight Gain"
+  authors:
+  - Marcella K. Vaicik
+  - Jill Thyboll Kortesmaa
+  - "Sofia Mov\xE9rare-Skrtic"
+  - Jarkko Kortesmaa
+  - Raija Soininen
+  - "G\xF6ran Bergstr\xF6m"
+  - Claes Ohlsson
+  - Li Yen Chong
+  - "Bj\xF6rn Rozell"
+  - Margo Emont
+  - Ronald N. Cohen
+  - Eric M. Brey
+  - Karl Tryggvason
+  publisher: PLoS ONE
+  date: '2014-10-13'
+  link: https://doi.org/f24rq9
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
