@@ -12,7 +12,7 @@ My work aims to explore the the heterogeniety of adipose tissue and of adipocyte
 
 ## Highlighted
 
-{% include citation.html lookup="A single-cell atlas of human and mouse white adipose tissue" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41586-022-04518-2 " style="rich" %}
 
 {% include section.html %}
 
