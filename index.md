@@ -63,7 +63,7 @@ See my CV.
 
 {%
   include button.html
-  link="team"
+  link="about"
   text="About me"
   icon="fa-solid fa-arrow-right"
   flip=true
