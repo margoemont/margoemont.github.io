@@ -1,6 +1,9 @@
 - id: doi:10.1038/s41586-022-04518-2
   image: "images/scthumb.jpg"
   title: "A single cell atlas of human and mouse white adipose tissue"
+- id: doi:10.1101/2021.11.09.466968
+  title: "A single cell atlas of human and mouse white adipose tissue (preprint)"
+  publisher: bioRxiv
 - id: pmid:26425808
   date: '2015-12-01'
   image: "images/threed.jpg"

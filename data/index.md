@@ -14,25 +14,27 @@ Genes can be queried in the dataset using the [Single Cell Portal][scp].
 Serialized objects of the final datasets can be found [here][gdrive] (Seurat RDS). 
 Links to specific clusterings/objects are layed out in the tables below.
 
-> #### Human Data
-> | Explore Online (SCP) | Description | Number of Cells | Object Download Link |
-> | -------------------- | ----------- | --------------- | -------------------- |
-> | [all cells][scp-hs-all] | all human WAT cells | 166,149 | [human_all.rds][gdrive-hs-all] (13.2 GB) |
-> | [adipocytes][scp-hs-ads] | adipocyte subclusters | 25,871 | [human_adipocytes.rds][gdrive-hs-ads] (2.3 GB) |
-> | [ASPCs][scp-hs-aspcs] | adipose stem and progenitor cell subclusters | 52,482 | [human_ASPCs.rds][gdrive-hs-aspcs] (4.1 GB) |
-> | [mesothelial cells][scp-hs-mes] | mesothelial subclusters | 30,482 | [human_mesothelium.rds][gdrive-hs-mes] (1.8 GB) |
-> | [vascular cells][scp-hs-vasc] | vascular subclusters | 22,734 | [human_vascular.rds][gdrive-hs-vasc] (1.3 GB) |
-> | [immune cells][scp-hs-imm] | immune subclusters | 34,268 | [human_immune.rds][gdrive-hs-imm] (2.7 GB) |
-​
-> #### Mouse Data
-> | Explore Online (SCP) | Description | Number of Cells | Object Download Link |
-> | -------------------- | ----------- | --------------- | -------------------- |
-> | [all cells][scp-mm-all] | all mouse WAT cells | 197,721 | [mouse_all.rds][gdrive-mm-all] (15.2 GB) |
-> | [adipocytes][scp-mm-ads] | adipocyte subclusters | 39,934 | [mouse_adipocytes.rds][gdrive-mm-ads] (3.3 GB) |
-> | [ASPCs][scp-mm-aspcs] | adipose stem and progenitor cell subclusters | 51,227 | [mouse_ASPCs.rds][gdrive-mm-aspcs] (3.3 GB) |
-> | [mesothelial cells][scp-mm-mes] | mesothelial subclusters | 14,947 | [mouse_mesothelium.rds][gdrive-mm-mes] (550 MB) |
-> | [vascular cells][scp-mm-vasc] | vascular subclusters | 7,632 | [mouse_vascular.rds][gdrive-mm-vasc] (503 MB) |
-> | [immune cells][scp-mm-imm] | immune subclusters | 70,547 | [mouse_immune.rds][gdrive-mm-imm] (4.2 GB) |
+#### Human Data
+
+| Explore Online (SCP) | Description | Number of Cells | Object Download Link |
+| -------------------- | ----------- | --------------- | -------------------- |
+| [all cells][scp-hs-all] | all human WAT cells | 166,149 | [human_all.rds][gdrive-hs-all] (13.2 GB) |
+| [adipocytes][scp-hs-ads] | adipocyte subclusters | 25,871 | [human_adipocytes.rds][gdrive-hs-ads] (2.3 GB) |
+| [ASPCs][scp-hs-aspcs] | adipose stem and progenitor cell subclusters | 52,482 | [human_ASPCs.rds][gdrive-hs-aspcs] (4.1 GB) |
+| [mesothelial cells][scp-hs-mes] | mesothelial subclusters | 30,482 | [human_mesothelium.rds][gdrive-hs-mes] (1.8 GB) |
+| [vascular cells][scp-hs-vasc] | vascular subclusters | 22,734 | [human_vascular.rds][gdrive-hs-vasc] (1.3 GB) |
+| [immune cells][scp-hs-imm] | immune subclusters | 34,268 | [human_immune.rds][gdrive-hs-imm] (2.7 GB) |
+
+#### Mouse Data
+
+| Explore Online (SCP) | Description | Number of Cells | Object Download Link |
+| -------------------- | ----------- | --------------- | -------------------- |
+| [all cells][scp-mm-all] | all mouse WAT cells | 197,721 | [mouse_all.rds][gdrive-mm-all] (15.2 GB) |
+| [adipocytes][scp-mm-ads] | adipocyte subclusters | 39,934 | [mouse_adipocytes.rds][gdrive-mm-ads] (3.3 GB) |
+| [ASPCs][scp-mm-aspcs] | adipose stem and progenitor cell subclusters | 51,227 | [mouse_ASPCs.rds][gdrive-mm-aspcs] (3.3 GB) |
+| [mesothelial cells][scp-mm-mes] | mesothelial subclusters | 14,947 | [mouse_mesothelium.rds][gdrive-mm-mes] (550 MB) |
+| [vascular cells][scp-mm-vasc] | vascular subclusters | 7,632 | [mouse_vascular.rds][gdrive-mm-vasc] (503 MB) |
+| [immune cells][scp-mm-imm] | immune subclusters | 70,547 | [mouse_immune.rds][gdrive-mm-imm] (4.2 GB) |
 
 [pmid:35296864]: https://pubmed.ncbi.nlm.nih.gov/35296864/
 [oa]: https://rdcu.be/cJXHi
