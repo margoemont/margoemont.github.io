@@ -2,22 +2,22 @@
   --primary: #87A330;
   --secondary: #709176;
   --text: #393939;
-  --background: #F2E9DC;
-  --background-alt: #F2E9DC;
+  --background: #F6F6F0;
+  --background-alt: #F6F6F0;
   --light-gray: #e0e0e0;
   --gray: #808080;
-  --overlay: #006B6B8B;
+  --overlay: #00000020;
 }
 
 [data-dark=true] {
   --primary: #87A330;
   --secondary: #709176;
-  --text: #F2E9DC;
+  --text: #F6F6F0;
   --background: #393939;
   --background-alt: #393939;
   --light-gray: #404040;
   --gray: #808080;
-  --overlay: #006B6B8B;
+  --overlay: #00000020;
 }
 
 :root {
