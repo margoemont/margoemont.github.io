@@ -48,6 +48,62 @@
   orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cell.2022.10.003
+  title: Architecture of the outbred brown fat proteome defines regulators of metabolic
+    physiology
+  authors:
+  - Haopeng Xiao
+  - Luiz H.M. Bozi
+  - Yizhi Sun
+  - Christopher L. Riley
+  - Vivek M. Philip
+  - Mandy Chen
+  - Jiaming Li
+  - Tian Zhang
+  - Evanna L. Mills
+  - Margo P. Emont
+  - Wenfei Sun
+  - Anita Reddy
+  - Ryan Garrity
+  - Jiani Long
+  - Tobias Becher
+  - Laura Potano Vitas
+  - Dina Laznik-Bogoslavski
+  - Martha Ordonez
+  - Xinyue Liu
+  - Xiong Chen
+  - Yun Wang
+  - Weihai Liu
+  - Nhien Tran
+  - Yitong Liu
+  - Yang Zhang
+  - Aaron M. Cypess
+  - Andrew P. White
+  - Yuchen He
+  - Rebecca Deng
+  - "Heiko Sch\xF6der"
+  - Joao A. Paulo
+  - Mark P. Jedrychowski
+  - Alexander S. Banks
+  - Yu-Hua Tseng
+  - Paul Cohen
+  - Linus T. Tsai
+  - Evan D. Rosen
+  - Samuel Klein
+  - Maria Chondronikola
+  - Fiona E. McAllister
+  - Nick Van Bruggen
+  - Edward L. Huttlin
+  - Bruce M. Spiegelman
+  - Gary A. Churchill
+  - Steven P. Gygi
+  - Edward T. Chouchani
+  publisher: Cell
+  date: '2022-11-01'
+  link: https://doi.org/grmbxp
+  orcid: 0000-0001-9873-2784
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-022-04518-2
   title: A single cell atlas of human and mouse white adipose tissue
   authors:
