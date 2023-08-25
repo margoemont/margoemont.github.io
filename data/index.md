@@ -9,10 +9,10 @@ nav:
 
 # A single-cell atlas of human and mouse white adipose tissue
 
-See the manuscript, [here][pmid:35296864] (open access link [here][oa]). 
-Genes can be queried in the dataset using the [Single Cell Portal][scp].
-Serialized objects of the final datasets can be found [here][gdrive] (Seurat RDS). 
-Links to specific clusterings/objects are layed out in the tables below.
+See the manuscript, [here][pmid:35296864] (open access link [here][oa]).  
+Genes can be queried in the dataset using the [Single Cell Portal][scp].  
+Serialized objects of the final datasets can be found [here][gdrive] (Seurat RDS).  
+Links to specific clusterings/objects are layed out in the tables below:  
 
 #### Human Data
 
