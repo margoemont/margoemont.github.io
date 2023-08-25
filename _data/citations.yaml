@@ -49,7 +49,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41586-022-04518-2
-  title: A single-cell atlas of human and mouse white adipose tissue
+  title: A single cell atlas of human and mouse white adipose tissue
   authors:
   - Margo P. Emont
   - Christopher Jacobs
@@ -95,7 +95,7 @@
   orcid: 0000-0001-9873-2784
   plugin: sources.py
   file: sources.yaml
-  image: images/atlas.jpg
+  image: images/scthumb.jpg
 - id: doi:10.1126/scitranslmed.abh3831
   title: "Hepatic IRF3 fuels dysglycemia in obesity through direct regulation of\n\
     \            <i>Ppp2r1b</i>"
@@ -193,8 +193,9 @@
   date: '2021-07-01'
   link: https://doi.org/gsm387
   orcid: 0000-0001-9873-2784
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/wtone.jpg
 - id: doi:10.1016/j.devcel.2020.05.017
   title: Adrenergic-Independent Signaling via CHRNA2 Regulates Beige Fat Activation
   authors:
@@ -255,8 +256,9 @@
   date: '2018-05-21'
   link: https://doi.org/gdqjjq
   orcid: 0000-0001-9873-2784
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/chrna.jpg
 - id: doi:10.1016/j.bbalip.2018.05.004
   title: Development, activation, and therapeutic potential of thermogenic adipocytes
   authors:
@@ -267,8 +269,9 @@
   date: '2019-01-01'
   link: https://doi.org/gsm389
   orcid: 0000-0001-9873-2784
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/bbarev.jpg
 - id: doi:10.1007/978-1-4939-7799-4_21
   title: Isolation and Differentiation of Murine Primary Brown/Beige Preadipocytes
   authors:
@@ -296,8 +299,9 @@
   date: '2017-12-01'
   link: https://doi.org/gcm7k5
   orcid: 0000-0001-9873-2784
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/cathumb.jpg
 - id: doi:10.1074/jbc.m116.771428
   title: The kielin/chordin-like protein (KCP) attenuates high-fat diet-induced obesity
     and metabolic syndrome in mice
@@ -347,6 +351,7 @@
   orcid: 0000-0001-9873-2784
   plugin: sources.py
   file: sources.yaml
+  image: images/threed.jpg
 - id: doi:10.1016/j.mce.2015.03.002
   title: Silencing Mediator of Retinoid and Thyroid Hormone Receptors (SMRT) regulates
     glucocorticoid action in adipocytes
@@ -374,8 +379,9 @@
   date: '2015-03-24'
   link: https://doi.org/f7cvf6
   orcid: 0000-0001-9873-2784
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/transcript.jpg
 - id: doi:10.1371/journal.pone.0109854
   title: "Laminin \u03B14 Deficient Mice Exhibit Decreased Capacity for Adipose Tissue\
     \ Expansion and Weight Gain"
@@ -399,3 +405,69 @@
   orcid: 0000-0001-9873-2784
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1016/j.gde.2023.102045
+  title: Exploring the heterogeneity of white adipose tissue in mouse and man
+  authors:
+  - Margo P Emont
+  - Evan D Rosen
+  publisher: Curr Opin Genet Dev.
+  date: '2023-06-01'
+  link: https://doi.org/10.1016/j.gde.2023.102045
+  image: images/screv.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.cell.2022.10.003
+  title: Architecture of the outbred brown fat proteome defines regulators of metabolic
+    physiology
+  authors:
+  - Haopeng Xiao
+  - Luiz H M Bozi
+  - Yizhi Sun
+  - Christopher L Riley
+  - Vivek M Philip
+  - Mandy Chen
+  - Jiaming Li
+  - Tian Zhang
+  - Evanna L Mills
+  - Margo P Emont
+  - Wenfei Sun
+  - Anita Reddy
+  - Ryan Garrity
+  - Jiani Long
+  - Tobias Becher
+  - Laura Potano Vitas
+  - Dina Laznik-Bogoslavski
+  - Martha Ordonez
+  - Xinyue Liu
+  - Xiong Chen
+  - Yun Wang
+  - Weihai Liu
+  - Nhien Tran
+  - Yitong Liu
+  - Yang Zhang
+  - Aaron M Cypess
+  - Andrew P White
+  - Yuchen He
+  - Rebecca Deng
+  - Heiko Schoder
+  - Joao A Paulo
+  - Mark P Jedrychowski
+  - Alexander S Banks
+  - Yu-Hua Tseng
+  - Paul Cohen
+  - Linus T Tsai
+  - Evan D Rosen
+  - Samuel Klein
+  - Maria Chondronikola
+  - Fiona E McAllister
+  - Nick Van Bruggen
+  - Edward L Huttlin
+  - Bruce M Spiegelman
+  - Gary A Churchill
+  - Steven P Gygi
+  - Edward T Chouchani
+  publisher: Cell
+  date: '2022-11-23'
+  link: https://doi.org/10.1016/j.cell.2022.10.003
+  plugin: sources.py
+  file: sources.yaml
