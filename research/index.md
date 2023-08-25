@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-dna" %}Research
 My work aims to explore the the heterogeniety of adipose tissue and of adipocytes themselves.
 
 {% include section.html %}

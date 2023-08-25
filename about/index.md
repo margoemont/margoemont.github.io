@@ -5,10 +5,29 @@ nav:
   tooltip: About me
 ---
 
+{% capture text %}
 
-# **Margo Emont**
+I am an instructor in medicine at Harvard Medical School and in the lab of Evan Rosen at Beth Israel Deaconess Medical Center. I completed my PhD in the lab of Jun Wu at the University of Michigan where I studied the regulation of thermogenic adipocytes. My current work uses single nuclear RNA sequencing to study the heterogeneity of cell types in white adipose tissue and how cell type proportion and function are affected under different physiological conditions. In my free time, I enjoy knitting and crocheting, trying new resturants, and hanging out with my cat, Dr. Franklin.
 
-Phone: 502-802-0878; Email: memont@bidmc.harvard.edu
+{%
+  include feature.html
+  image="images/headshot.jpg"
+  link="about"
+  title="Margo Emont"
+  text=text
+%}
+
+{% endcapture %}
+
+
+## Index
+[Grants and Fellowships](about/#grants-and-fellowships)
+[Presentations](about/#presentations)
+[Mentorship](about/#mentorship)
+[Teaching Experience](about/#teaching-experience)
+[Service](about/#service)
+
+For a list of published works, see [research](research/)
 
 **Education:**
 
@@ -94,36 +113,3 @@ With mentor: _Nature_, _Cell_, _Nature Medicine_, _Cell Metabolism_, _Nature Met
 
 - **Poster Judge**
 Scientista symposium poster competition 2019, Broad Institute retreat poster competition 2022
-
-### _Publications_
-
-ORCID ID: [https://orcid.org/0000-0001-9873-2784](https://orcid.org/0000-0001-9873-2784)
-
-**Research Articles:**
-1. Vaicik, M.K., Thyboll Kortesmaa, J., Moverare-Skrtic, S., Kortesmaa, J., Soininen, R., Bergstrom, G., Ohlsson, C., Chong, L.Y., Rozell, B., **Emont, M.** , Cohen, R.N., Brey, E.M., Tryggvason, K. Laminin alpha4 Deficient Mice Exhibit Decreased Capacity for Adipose Tissue Expansion and Weight Gain. _PLoS One._ 2014. 9, e109854. PMCID: PMC4195691.
-2. **Emont, M.P.** , Mantis, S., Kahn, J.H., Landeche, M., Han, X., Sargis, R.M., Cohen, R.N. Silencing Mediator of Retinoid and Thyroid Hormone Receptors (SMRT) regulates glucocorticoid action in adipocytes. _Mol Cell Endocrinol._ 2015. 407, 52-56. PMCID: PMC4390535.
-3. **Emont, M.P.,** Yu, H., Hong, X., Maganti, N., Stegemann, J.P., Wu, J. Using a 3D Culture System to Differentiate Visceral Adipocytes _In Vitro._ _Endocrinology._ 2015. 156(12):4761-8. PMCID: PMC4655212.
-  - Commentary: Kokai, L.E., Marra, K.G., Kershaw, E.E. Three-Dimensional Adipocyte Culture: The Next Frontier for Adipocyte Biology Discovery. _Endocrinology_. 2015. 156(12):4375-6
-4. Soofi, A., Wolf, K.I., **Emont, M.P.** , Qi, N., Martinez-Santibanez, G., Grimley, E., Ostwani, W., Dressler, G.R. The Kielin/Chordin-like Protein (KCP) can Attenuate High Fat Diet Induced Obesity and Metabolic Syndrome in Mice. _J Biol Chem._ 2017. 292,9051-9062. PMCID: PMC5454091.
-5. Jiang, J.\*, **Emont, M.P.** \*, Jun, H., Liao, J., Qiao, X., Kim, D.I., Wu, J. Cinnamaldehyde induces cell autonomous metabolic reprogramming in primary murine and human adipocytes. _Metabolism._ 2017.77, 58-64. PMCID: PMC5685898. \*Contributed equally.
-6. Kim, D.I., Liao J., **Emont, M.P.** , Park, M.J., Jun, H., Ramakrishnan, S.K., Shah, Y.M., Omary, M.B., Wu, J. An OLTAM system for analysis of brown/beige fat thermogenic activity. _Int. J. Obes._ 2018. 42:939-945. PMCID: PMC5962373.
-7. Jun, H., Yu, H., Gong, J., Jiang, J., Kim, D.I., **Emont, M.P.** , Zestos, A., Perky, E., Cho, J.S., Liu, J., Maillard, I., Kennedy, R., Xu, X.Z.S., Wu, J. A nicotine receptor-dependent signal between immune cells and beige adipocytes mediates adaptation to cold and curbs obesity. _Nat. Med._ 2018.24:814-822. PMCID: PMC5992032.
-8. Liao, J., Jiang, J., Jun, H., Qiao, X., **Emont, M.P.** , Kim, D.I., Wu, J. HDAC3-selective inhibition activates brown and beige fat through PRDM16. _Endocrinology._ 2018. 159:2520-2527. PMCID: PMC6456926.
-9. Jun, H., Ma, Y., Chen, Y., Gong, J., Liu, S., Wang, J., Knights, A.J., Qiao, X., **Emont, M.P.** , Xu, X.Z.S., Kajimura, S., Wu, J. Adrenergic-independent signaling via CHRNA2 regulates beige fat activation. _Dev. Cell._ 2020. 6;54(1):106-116.e5. PMCID: PMC7343629.
-10. Westcott, G.P\*., **Emont, M.P\*.** , Li, J., Jacobs, C., Tsai, L., Rosen, E.D. Mesothelial cells are not a source of adipocytes in mice. _Cell Rep._ 2021. 36(2), 109388. PMCID: PMC8317472 \*Contributed equally
-11. **Emont, M.P.** , Jacobs, C., Essene, A.L., Pant, D., Tenen, D., Colleluori, G., Di Vincenzo, A., Jørgensen, A.M., Dashti, H., Stefek, A., McGonagle, E., Strobel, S., Laber, S., Agrawal, S., Westcott, G.P., Kar, A., Veregge, M.L., Gulko, A., Srinivasan, H., Kramer, Z., De Filippis, E., Merkel, E., Ducie, J., Boyd, C.G., Gourash, W., Courcoulas, A., Lin, S.J., Lee, B., Morris, D., Tobias, A., Khera, A.V., Claussnitzer, M., Pers, T.H., Giordano, A., Ashenberg, O., Regev, A., Tsai, L.T., Rosen, E.D. A single cell atlas of human and mouse white adipose tissue. 2022. _Nature._ 603,926-933. PMID: P35296864
-  - Commentary: Scheele, C., Nielsen, S. Can we target obesity using a single-cell atlas of adipose tissue? _Med (N Y)_. 2022. 3(5):276-278
-12. Patel, S.J., Liu, N., Piaker, S., Gulko, A., Andrade, M.L., Heyward, F.D., Sermersheim, T., Edinger, N., Srinivasan, H., **Emont, M.P.** , Westcott, G.P., Luther, J., Chung, R.T., Yan, S., Kumari, M., Thomas, R., Deleye, Y., Tchernof, A., White, P.J., Baselli, G.A., Meroni, M., De Jesus, D.F., Ahmad, R., Kulkarni, R.N., Valenti, L., Tsai, L., Rosen, E.D. Hepatic IRF3 fuels dysglycemia in obesity through direct regulation of _Ppp2r1b_. _Sci. Transl. Med._ 2022. 14, eabh3831. PMCID: PMC9162056
-13. Xiao, H., Bozi, L.H.M., Sun, Y., Riley, C.L., Philip, V.M., Chen, M., Li, J., Zhang, T., Mills, E.L., **Emont, M.P.** , Sun, W., Reddy, A., Garrity, R., Long, J., Becher, T., Vitas, L.P., Laznik-Bogoslavski, R., Ordonez, M., Liu, X., Chen, X., Wang, Y., Liu, W., Tran, N., Liu, Y., Xhang, Y., Cypess, A.M., White, A.P., He, Y., Deng, R., Schoder, H., Paulo, J.A., Jedrychowski, M.P., Banks, A.S., Tseng, Y-H, Cohen, P., Tsai, L.T., Rosen, E.D., Klein, S., Chondronikola, M., McAllister, F.E., Van Bruggen, N., Huttlin, E.L., Spiegelman, B.M., Churchill, G.A., Gygi, S.P., Chouchani, E.T. (2022) Architecture of the outbred brown fat proteome defines regulators of metabolic physiology. _Cell_. 2022. 185(24):4654-4673. PMID: 36334589
-
-
-**Review Articles**
-
-1. **Emont, M.P.** , Yu, H., Wu, J. Transcriptional control and hormonal response of thermogenic fat. _J Endocrinol._ 2015. 225, R35-R47. PMCID: PMC4426224.
-2. **Emont, M.P.\*** , Kim, D.I.\*, Wu, J. Development, Activation, and Therapeutic Potential of Thermogenic Adipocytes. _Biochim Biophys Acta_. 2018. 1864:13-19. PMCID: PMC6240366. \*Contributed equally.
-3. **Emont, M.P.** , Rosen, E.D. Exploring the heterogeneity of white adipose tissue in mouse and man. _Curr Opin Genet Dev._ 2023. 80:102045. PMID: 37094486
-
-**Book Chapters**
-
-1. Liu, L., Zheng, L.D., Donnelly, S.R., **Emont, M.P.** , Wu, J., Cheng, Z. Isolation of mouse stromal vascular cells for monolayer culture_._ _Methods Mol Biol._ 2017. 1566, 9-16. PMID: 28244036.
-2. Yu, H., **Emont, M.** , Jun, H., Wu, J. Isolation and differentiation of murine primary brown/beige preadipocytes. _Methods Mol Biol_. 2018. 1773, 273-282. PubMed PMID: 29687396.

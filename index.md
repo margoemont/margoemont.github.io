@@ -5,13 +5,20 @@
 
 Studying adipocyte and adipose tissue heterogeniety in humans and mice.
 
+{% include section.html size = "full" %}
+{%
+  include figure.html
+  image="images/background.jpg"
+  width = "100%"
+%}
+
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-My research spans a number of topics reguarding adipose tissue and adipocyte development and function.
+My research spans a number of topics regarding adipose tissue and adipocyte development and function. My PhD work focused on elucidating the control of thermogenesis in beige adipocytes, while my more recent work involves using new technologies such as single nuclear RNA sequencing to study adipose tissue heterogeniety.
 
 {%
   include button.html
@@ -34,7 +41,7 @@ My research spans a number of topics reguarding adipose tissue and adipocyte dev
 
 {% capture text %}
 
-Explore the human and mouse white adipose tissue atlases.
+Explore the human and mouse white adipose tissue atlases, either online via the Broad Single Cell Portal, or by downloading .rds objects (Seurat v4).
 
 {%
   include button.html
@@ -59,7 +66,7 @@ Explore the human and mouse white adipose tissue atlases.
 
 {% capture text %}
 
-See my CV.
+I am currently an Instructor in Medicine at Beth Israel Deaconess Medical Center/Harvard Medical School, in the lab of Dr. Evan Rosen. See here for more details, including grant funding and mentorship and teaching experience.
 
 {%
   include button.html
@@ -76,6 +83,6 @@ See my CV.
   include feature.html
   image="images/headshot.jpg"
   link="about"
-  title="About me"
+  title="My CV"
   text=text
 %}
