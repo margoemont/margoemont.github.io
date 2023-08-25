@@ -1,4 +1,77 @@
 - id: doi:10.1038/s41586-022-04518-2
-  image: "images/atlas.jpg"
+  image: "images/scthumb.jpg"
+  title: "A single cell atlas of human and mouse white adipose tissue"
 - id: pmid:26425808
   date: '2015-12-01'
+  image: "images/threed.jpg"
+- id: doi:10.1016/j.celrep.2021.109388
+  image: "images/wtone.jpg"
+- id: doi:10.1038/s41591-018-0032-8
+  image: "images/chrna.jpg"
+- id: doi:10.1016/j.bbalip.2018.05.004
+  image: "images/bbarev.jpg"
+- id: doi:10.1016/j.metabol.2017.08.006
+  image: "images/cathumb.jpg"
+- id: doi:10.1530/JOE-15-0026
+  image: "images/transcript.jpg"
+- id: 10.1016/j.gde.2023.102045
+  title: "Exploring the heterogeneity of white adipose tissue in mouse and man"
+  authors:
+  - Margo P Emont
+  - Evan D Rosen
+  publisher: Curr Opin Genet Dev.
+  date: '2023-06-01'
+  link: https://doi.org/10.1016/j.gde.2023.102045
+  image:  "images/screv.jpg"
+- id: 10.1016/j.cell.2022.10.003
+  title: "Architecture of the outbred brown fat proteome defines regulators of metabolic physiology"
+  authors:
+  - Haopeng Xiao
+  - Luiz H M Bozi
+  - Yizhi Sun
+  - Christopher L Riley
+  - Vivek M Philip
+  - Mandy Chen
+  - Jiaming Li
+  - Tian Zhang
+  - Evanna L Mills
+  - Margo P Emont
+  - Wenfei Sun
+  - Anita Reddy
+  - Ryan Garrity
+  - Jiani Long
+  - Tobias Becher
+  - Laura Potano Vitas
+  - Dina Laznik-Bogoslavski
+  - Martha Ordonez
+  - Xinyue Liu
+  - Xiong Chen
+  - Yun Wang
+  - Weihai Liu
+  - Nhien Tran
+  - Yitong Liu
+  - Yang Zhang
+  - Aaron M Cypess
+  - Andrew P White
+  - Yuchen He
+  - Rebecca Deng
+  - Heiko Schoder
+  - Joao A Paulo
+  - Mark P Jedrychowski
+  - Alexander S Banks
+  - Yu-Hua Tseng
+  - Paul Cohen
+  - Linus T Tsai
+  - Evan D Rosen
+  - Samuel Klein
+  - Maria Chondronikola
+  - Fiona E McAllister
+  - Nick Van Bruggen
+  - Edward L Huttlin
+  - Bruce M Spiegelman
+  - Gary A Churchill
+  - Steven P Gygi
+  - Edward T Chouchani
+  publisher: Cell
+  date: '2022-11-23'
+  link: https://doi.org/10.1016/j.cell.2022.10.003

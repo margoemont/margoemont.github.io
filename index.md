@@ -26,7 +26,7 @@ My research spans a number of topics reguarding adipose tissue and adipocyte dev
 
 {%
   include feature.html
-  image="images/atlas.jpg"
+  image="images/resthumb.jpg"
   link="research"
   title="My Research"
   text=text
@@ -38,7 +38,7 @@ Explore the human and mouse white adipose tissue atlases.
 
 {%
   include button.html
-  link="projects"
+  link="data"
   text="Explore the data"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -49,9 +49,9 @@ Explore the human and mouse white adipose tissue atlases.
 
 {%
   include feature.html
-  image="images/atlas.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/datathumb.jpg"
+  link="data"
+  title="Access Data"
   flip=true
   style="bare"
   text=text
@@ -75,7 +75,7 @@ See my CV.
 {%
   include feature.html
   image="images/headshot.jpg"
-  link="team"
+  link="about"
   title="About me"
   text=text
 %}
