@@ -8,7 +8,7 @@ Studying adipocyte and adipose tissue heterogeniety in humans and mice.
 {% include section.html size = "full" %}
 {%
   include figure.html
-  image="images/background.jpg"
+  image="images/fatihc.jpg"
   width = "90%"
 %}
 

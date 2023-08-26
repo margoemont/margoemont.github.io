@@ -5,10 +5,11 @@ nav:
   tooltip: About me
 ---
 
-{% include section.html %}
 {% capture text %}
 
 I am an instructor in medicine at Harvard Medical School and in the lab of Evan Rosen at Beth Israel Deaconess Medical Center. I completed my PhD in the lab of Jun Wu at the University of Michigan where I studied the regulation of thermogenic adipocytes. My current work uses single nuclear RNA sequencing to study the heterogeneity of cell types in white adipose tissue and how cell type proportion and function are affected under different physiological conditions. In my free time, I enjoy knitting and crocheting, trying new resturants, and hanging out with my cat, Dr. Franklin.
+
+{% endcapture %}
 
 {%
   include feature.html
@@ -18,17 +19,15 @@ I am an instructor in medicine at Harvard Medical School and in the lab of Evan 
   text=text
 %}
 
-{% endcapture %}
 
+### Index
+[Grants and Fellowships](#grants-and-fellowships)  
+[Presentations](#presentations)  
+[Mentorship](#mentorship)  
+[Teaching Experience](#teaching-experience)  
+[Service](#service)  
 
-## Index
-[Grants and Fellowships](#grants-and-fellowships)
-[Presentations](#presentations)
-[Mentorship](#mentorship)
-[Teaching Experience](#teaching-experience)
-[Service](#service)
-
-For a list of published works, see [research](https://margoemont.github.io/research/)
+For a list of published works, see [research](https://margoemont.github.io/research/).  
 
 **Education:**
 
