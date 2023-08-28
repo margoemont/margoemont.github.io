@@ -9,7 +9,7 @@ Studying adipocyte and adipose tissue heterogeniety in humans and mice.
 {%
   include figure.html
   image="images/fatihc.jpg"
-  width = "90%"
+  width = "70%"
 %}
 
 {% include section.html %}
@@ -66,12 +66,12 @@ Explore the human and mouse white adipose tissue atlases, either online via the 
 
 {% capture text %}
 
-I am currently an Instructor in Medicine at Beth Israel Deaconess Medical Center/Harvard Medical School, in the lab of Dr. Evan Rosen. See here for more details, including grant funding and mentorship and teaching experience.
+I am currently an Instructor in Medicine at Beth Israel Deaconess Medical Center/Harvard Medical School, in the lab of Dr. Evan Rosen. Click below for more details, including grant funding and mentorship and teaching experience.
 
 {%
   include button.html
   link="about"
-  text="About me"
+  text="My CV"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -83,6 +83,6 @@ I am currently an Instructor in Medicine at Beth Israel Deaconess Medical Center
   include feature.html
   image="images/headshot.jpg"
   link="about"
-  title="My CV"
+  title="About Me"
   text=text
 %}

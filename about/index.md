@@ -54,8 +54,8 @@ For a list of published works, see [research](https://margoemont.github.io/resea
 
 | Year(s) | Grant title | Funding Agency, Grant type and Grant number | Official role on project | Description of major goals|
 | --- | --- | --- | --- | --- |
-| 2016-2017 | Regulation of Thermogenesis in Adipocytes Through TRPA1 | NIH F31 DK112625 | Role: PI | This project seeks to characterize the role that heat-sensing cation channel TRPA1 plays in the regulation of the thermogenic program in beige adipocytes. |
-| 2020-2022 | Investigating the Regulation of IRF4 in Adipocytes | NIH F32 DK124914 | Role: PI | This project seeks to define the regulation of the transcription factor IRF4 in adipocytes under a variety of physiological stimulations, as well as to gain a more complete understanding of the transcriptional program controlled by IRF4 once activated. |
+| 2016-2017 | Regulation of Thermogenesis in Adipocytes Through TRPA1 | NIH F31 DK112625 | Role: PI | This project sought to characterize the role that heat-sensing cation channel TRPA1 plays in the regulation of the thermogenic program in beige adipocytes. |
+| 2020-2022 | Investigating the Regulation of IRF4 in Adipocytes | NIH F32 DK124914 | Role: PI | This project sought to define the regulation of the transcription factor IRF4 in adipocytes under a variety of physiological stimulations, as well as to gain a more complete understanding of the transcriptional program controlled by IRF4 once activated. |
 
 **Current**
 
@@ -106,9 +106,9 @@ For a list of published works, see [research](https://margoemont.github.io/resea
 ### _Service_
 
 - **Human Cell Atlas Adipose Network**
- Presented on behalf of the adipose network at international consortium meeting, deeply involved with adipose network coordination and integration efforts.
+ Co-coordinator of Human Cell Atlas Adipose network. I presented on behalf of the adipose network at international consortium meeting, and with a colleague lead the adipose network coordination and integration efforts.
 - **Ad hoc Reviewer**
- Individually: _Nature Communications_, _Current Opinions in Genetics and Development,Journal of Nutritional Biochemistry_, _Reviews in Endocrine and Metabolic Disorders, Surgery for Obesity and Related Diseases_
+ Individually: _Nature Communications_, _Current Opinions in Genetics and Development_,_Journal of Nutritional Biochemistry_, _Reviews in Endocrine and Metabolic Disorders_, _Surgery for Obesity and Related Diseases_
 With mentor: _Nature_, _Cell_, _Nature Medicine_, _Cell Metabolism_, _Nature Metabolism_, _Journal of Clinical Investigation_, _PNAS_, _Cell Reports_, _Genes and Development_, _Molecular Metabolism_.
 
 - **Poster Judge**
