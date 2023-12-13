@@ -393,21 +393,11 @@
   file: orcid.yaml
 - id: pmid:26425808
   title: Using a 3D Culture System to Differentiate Visceral Adipocytes In Vitro.
-  authors:
-  - Margo P Emont
-  - Hui Yu
-  - Heejin Jun
-  - Xiaowei Hong
-  - Nenita Maganti
-  - Jan P Stegemann
-  - Jun Wu
-  publisher: Endocrinology
-  date: '2015-12-01'
+  date: '2022-05-24'
   link: http://europepmc.org/abstract/med/26425808
   orcid: 0000-0001-9873-2784
-  plugin: sources.py
-  file: sources.yaml
-  image: images/threed.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.mce.2015.03.002
   title: Silencing Mediator of Retinoid and Thyroid Hormone Receptors (SMRT) regulates
     glucocorticoid action in adipocytes
