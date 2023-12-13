@@ -9,10 +9,13 @@ nav:
 
 ### Recorded presentations
 
-My presentation at the 2022 BIDMC Research retreat  
+dkNET webinar on how to use the single cell atlas as a resource for your research
+![]({https://www.youtube.com/watch?v=6m-ZQ2NhU6A})
+
+Presentation at the 2022 BIDMC Research retreat  
 ![]({https://vimeo.com/753052298})
 
-My presentaton at the 2022 Human Cell Atlas general meeting (the talk starts at 15 minutes)  
+Presentaton at the 2022 Human Cell Atlas general meeting (the talk starts at 15 minutes)  
 
 ![](https://youtu.be/FCjGzQXZLSc?t=913)
 
